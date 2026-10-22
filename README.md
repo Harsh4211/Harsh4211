@@ -38,7 +38,8 @@ A Streamlit intelligence platform built on the Global Terrorism Database (200,00
 `Python` `Streamlit` `Scikit-learn` `Plotly` `Pandas`
 
 #### 🌐 [vdvs.site](https://github.com/Harsh4211/vdvs.site)
-[ADD ONE LINE: what this website is for]
+- First webpage made by him.
+- Experimental link at present.
 
 `HTML`
 
